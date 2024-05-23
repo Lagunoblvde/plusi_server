@@ -1,0 +1,15 @@
+﻿  Server.cpp
+Server.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_accept в функции main.
+Server.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_bind в функции main.
+Server.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_closesocket в функции main.
+Server.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_listen в функции main.
+Server.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_recv в функции main.
+Server.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_send в функции main.
+Server.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_shutdown в функции main.
+Server.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_socket в функции main.
+Server.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_WSAStartup в функции main.
+Server.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_WSACleanup в функции main.
+Server.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_WSAGetLastError в функции main.
+Server.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_getaddrinfo в функции main.
+Server.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_freeaddrinfo в функции main.
+C:\Users\vladi\source\repos\Server\x64\Debug\Server.exe : fatal error LNK1120: неразрешенных внешних элементов: 13
